@@ -1,0 +1,12 @@
+.container{
+  height: 600px
+}
+.content{
+margin top:20px;
+}
+
+footer{
+  background-color: bisque;
+  color: white;
+  padding:10px;
+}
